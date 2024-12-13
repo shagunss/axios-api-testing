@@ -1,0 +1,21 @@
+{
+  "name": "axios-api-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "axios": "^1.7.9",
+    "chai": "^4.3.6",
+    "mocha": "^11.0.1",
+    "mochawesome": "^7.1.3",
+    "properties-reader": "^2.3.0",
+    "rimraf": "^6.0.1"
+  }
+}
